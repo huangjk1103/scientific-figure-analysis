@@ -130,3 +130,7 @@ scientific-figure-analysis/
 ## License
 
 MIT
+
+## Contact & Citation
+
+Designed and published by Huang Kai (huangjk8023@yeah.net).
